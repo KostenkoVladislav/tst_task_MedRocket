@@ -1,6 +1,5 @@
 import pprint
 import requests
-import certifi
 import os
 import datetime
 
